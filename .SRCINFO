@@ -1,7 +1,7 @@
 pkgbase = sonic-frameworks-io
 	pkgdesc = Resource and network access abstraction
 	pkgver = 6.27.0
-	pkgrel = 1
+	pkgrel = 2
 	url = https://github.com/Sonic-DE/sonic-frameworks-io
 	arch = x86_64
 	groups = sonicde-frameworks
@@ -40,7 +40,7 @@ pkgbase = sonic-frameworks-io
 	optdepends = kded: proxy management and cookie storage
 	optdepends = kio-fuse: to mount remote filesystems via FUSE
 	optdepends = sonic-frameworks-doctools: for the help kioslave
-	optdepends = sonic-frameworks-io-extras: extra protocols support (sftp, fish and more
+	optdepends = sonic-frameworks-io-extras: extra protocols support (sftp, fish and more)
 	optdepends = switcheroo-control: hybrid GPU support
 	provides = kio
 	conflicts = kio
