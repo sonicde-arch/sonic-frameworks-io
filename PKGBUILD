@@ -43,7 +43,7 @@ optdepends=('audiocd-kio: for accessing audio CDs'
             'kded: proxy management and cookie storage'
             'kio-fuse: to mount remote filesystems via FUSE'
             'sonic-frameworks-doctools: for the help kioslave'
-            'sonic-frameworks-io-extras: extra protocols support (sftp, fish and more'
+            'sonic-frameworks-io-extras: extra protocols support (sftp, fish and more)'
             'switcheroo-control: hybrid GPU support')
 provides=(kio)
 conflicts=(kio)
